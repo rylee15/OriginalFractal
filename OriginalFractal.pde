@@ -3,7 +3,7 @@ public void setup() {
   rectMode(CENTER);
 }
 public void draw() {
-  background (255);
+  background (0);
   myFractal(250,250,400);
 }
 public void myFractal(int x, int y, int siz) {
